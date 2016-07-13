@@ -35,6 +35,12 @@
 
 注意：门口没有明显的中行的标志
 
+## 医院挂号
+[114挂号网](http://www.scgh114.com/web/index)
+也可以拨打114电话去预约，我是感觉凌晨12点就有更新
+
+社保卡号前加6个0
+
 ## 高新区投诉建议及规划咨询
 
 [成都高新区发展策划局](http://www.cdht.gov.cn/xinxiang/maillist_9.jspx?channelId=546&type=1,2,3)
